@@ -1,4 +1,4 @@
-/* problem statement : https://leetcode.com/problems/count-the-digits-that-divide-a-number/
+/* problem statement : https://leetcode.com/problems/count-the-digits-that-divide-a-number/ */
 
 class Solution {
 public:
